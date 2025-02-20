@@ -161,7 +161,7 @@ Now, let us say that only $$\mathbf{x}$$ is known, not $$\mathbf{x'}$$. We know 
 
 #### 4.2.2. The Fundamental Matrix $$\mathbf{F}$$
 
-The $$\mathbf{F}$$ matrix is only an algebraic representation of epipolar geometry and can both geometrically *(constructing the epipolar line)* and arithmetically. ([See derivation (Page 242)](http://cvrs.whu.edu.cn/downloads/ebooks/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf)) ([Fundamental Matrix Song](https://www.youtube.com/watch?v=DgGV3l82NTk))
+The $$\mathbf{F}$$ matrix is only an algebraic representation of epipolar geometry and can both geometrically *(constructing the epipolar line)* and arithmetically. ([See derivation (Page 242)](https://www.r-5.org/files/books/computers/algo-list/image-processing/vision/Richard_Hartley_Andrew_Zisserman-Multiple_View_Geometry_in_Computer_Vision-EN.pdf) ([Fundamental Matrix Song](https://www.youtube.com/watch?v=DgGV3l82NTk))
 As a result, we obtain: $$\mathbf{x}_i'^{\ \mathbf{T}}\mathbf{F} \mathbf{x}_i = 0$$, where $$i=1,2,\dots,m.$$
 This is known as epipolar constraint or correspondence condition (or *Longuet-Higgins* equation). Since, $$\mathbf{F}$$ is a $$3\times3$$ matrix, we can set up a homogeneous linear system with 9 unknowns:
 
