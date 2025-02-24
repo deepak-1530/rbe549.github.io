@@ -436,7 +436,7 @@ You are going to be implementing the original NERF method (from [this paper](htt
 
 ### 6.1 Dataset For NeRF
 
-Download the lego and ship data for NeRF from the original author's link [here](https://drive.google.com/drive/folders/1JDdLGDruGNXWnM1eqY1FNL9PlStjaKWi). You will have to train a NeRF for each dataset separately. **You are required to write your own data loader, parser, network and loss function for this phase.**
+Download the lego and ship data for NeRF from [here](https://www.kaggle.com/datasets/nguyenhung1903/nerf-synthetic-dataset). You will have to train a NeRF for each dataset separately. **You are required to write your own data loader, parser, network and loss function for this phase.**
 
 
 
