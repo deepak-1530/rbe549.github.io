@@ -327,7 +327,7 @@ YourDirectoryID_p3.zip
 |       ├── ....
 |       └── OutputVisualizationVideoSeq13.mp4
 ├── Report.pdf
-├── Presentation.pdf or Presentation.pptx
+├── ProductPitchVideo.mp4
 └── README.md
 
 ```
@@ -350,9 +350,9 @@ For each section/Phase of the project, explain briefly what you did, and describ
 
 <a name='present'></a>
 
-### 9.4. Final Presentation
+### 9.4. Product Pitch Video
 
-You are required to do an in-person presentation for 5 mins (all team members MUST present) during the time decided (look out for a post on timings on <a href="https://piazza.com/wpi/spring2025/rbecs549">Piazza</a>) explaining your approach, the results as video. Explain what all problems you tackled during this project and how you overcame them. Further, talk about non-obvious observations, corner cases and failure modes along with potential ways to solve them. Also, give an in-depth analysis of your proposed approach. The presentation has to be professional of a conference quality presented to a wide range of audience ranging from a lay-person to an expert in the field. 
+You are required to do an 3-min project pitch Video (all team members MUST be a part of the video) explaining your approach, the results as video. The goal is to make the video just like a product pitch from <a href="https://www.youtube.com/watch?v=mFuyX1XgJFg">Apple</a>/<a href="https://www.youtube.com/watch?v=4Leardp_AGc">Google</a>/<a href="https://www.youtube.com/watch?v=iPJDW5EaIzE">Tesla</a> with stunning visuals and storyline. It has to be professionally shot and edited. Explain what all problems you tackled during this project and how you overcame them as a part of the story. Focus on production quality, you are gauged equally on the technical content and the visual quality of the video. Further, talk about non-obvious observations, corner cases and failure modes along with potential ways to solve them. Also, give an in-depth analysis of your proposed approach. The video has to be professional and targeted to a wide range of audience ranging from a lay-person to an expert in the field. You are free to use any AI tools for creating stunning visuals.
 
 <a name='funcs'></a>
 
