@@ -165,6 +165,7 @@ YourDirectoryID_p4.zip
 |   └── Phase 2
 |     └── Any subfolders you want along with files 
 ├── Output.mp4
+├── VideoPresentation.mp4
 └── Report.pdf
 ```
 <a name='report'></a>
@@ -193,9 +194,9 @@ Screen capture of your code running with trajectory being visualized as ``Output
 
 <a name='present'></a>
 
-### 6.4. Presentation
+### 6.4. Presentation Video
 
-You are required to do an in-person presentation for 5mins (all team members MUST present) during the time decided (look out for a post on timings on <a href="https://piazza.com/wpi/spring2025/rbecs549">Piazza</a>) explaining your approach, the results as video. Explain what all problems you tackled during this project and how you overcame them. Further, talk about non-obvious observations, corner cases and failure modes along with potential ways to solve them. Also, give an in-depth analysis of your proposed approach. The presentation has to be professional of a conference quality presented to a wide range of audience ranging from a lay-person to an expert in the field. 
+You are required to do a presentation video for a maximum of 3mins (all team members MUST present in the video) called ``VideoPresentation.mp4`` explaining your approach and the results. Explain what all problems you tackled during this project and how you overcame them. Further, talk about non-obvious observations, corner cases and failure modes along with potential ways to solve them. Also, give an in-depth analysis of your proposed approach. The presentation video has to be professional of a conference quality presented to an expert in the field. 
 
 <a name='funcs'></a>
 
